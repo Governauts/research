@@ -1,4 +1,4 @@
-# NEARedu
+# Research DAOs
 
 This repository is a hub for any knowledge that is valuable to participants in the NEAR Ecosystem. Both individually and collectively, our communities decide objectives and key results based on their purposes, visions, and missions. We plan to invite collaborators to coordinate with contributors who are learning how (and why) to get involved.
 
