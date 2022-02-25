@@ -4,7 +4,7 @@ This repository is a hub for any knowledge that is valuable to participants in t
 
 NEAR's high-level goals include sustainable development, meaningful growth, and positive impact. We are intentionally focused on sharing knowledge with everyone and learning together. Mainly, this education guild is about increasing the rate and capacity of knowledge / skill acquisition.
 
-Join us on [Discord](https://discord.gg/khhupqaC9q) and/or [Telegram](https://t.me/NEARedu) 🙂
+Join us on [Telegram](https://t.me/researchDAO) 🙂
 
 ## Library
 
